@@ -1,20 +1,20 @@
 # ai-tutor-framework
 An exploration of how to construct a personalized AI tutor in adult education - with application to College Physics
 <p><span style="font-size: 14pt; color: #0e68b3;">Here it is...</span></p>
-<p>One of the most common questions I receive as a physics teacher is, "<span style="text-decoration: underline;"><em><span style="font-size: 14pt; color: #03893d; text-decoration: underline;">How on earth do I actually learn physics</span></em></span>?".&nbsp; While the specific answer differs between individuals, in my honest opinion, everyone benefits greatly from a personalized tutor in a similar way that one learns trades not only through reading textbooks, but especially through apprenticeships.&nbsp; I do not know of another way that has close to the same efficiency in achieving authentic skill development.&nbsp; These are the instructions you can experiment with to enable AI to become as close to an 'on-call' personalized tutor as I am aware.</p>
+<p>One of the most common questions I receive as a physics teacher is, "<span style="text-decoration: underline;"><em><span style="font-size: 14pt; color: #03893d; text-decoration: underline;">How on earth do I actually learn physics</span></em></span>?".&nbsp; While the specific answer differs between individuals, in my honest opinion, everyone benefits greatly from a personalized tutor in a similar way that one learns trades not only through reading textbooks, but especially through apprenticeships.&nbsp; I do not know of another way that has close to the same efficiency in achieving authentic skill development.&nbsp; These are the instructions you can experiment with to enable AI to become as close to an 'on-call' personalized tutor as I am aware.&nbsp; This exploration is anything but definitive. &nbsp; Treat what comes below, then, as a framework. </p>
 <hr />
 <p><span>The objective is to use tools such as ChatGPT, Claude, Gemini, or another capable AI system to <span style="text-decoration: underline; color: #9242b4; font-size: 14pt;"><em><strong>support</strong></em></span> your learning.</span></p>
 <p><span>The important word here is </span><strong><span>support</span></strong><span>.</span></p>
 <p><span>I do not recommend using AI simply to obtain answers to homework problems. Physics is learned by thinking through physical situations, making mistakes, asking questions, working with mathematics, and gradually learning how the ideas fit together. If an AI system does all of that thinking for you, it can actually make learning harder in the long run.</span></p>
 <p><span>Instead, I have developed a </span><strong><span>General Physics Personal Tutor Prompt</span></strong><span> that you can give to an AI system. The prompt instructs the AI to behave more like a tutor. It should ask you questions, help identify missing prerequisite skills, give hints gradually, revisit concepts that need additional practice, and help you work through physics without immediately giving you the answer.</span></p>
 <p><span>You do not need to understand the entire prompt. You simply need to give it to the AI and then use the following routine.</span></p>
-<p><strong><span>1. Start your physics tutor.</span></strong><br /><span>Open the AI system you prefer and begin a new conversation. Copy and paste the entire General Physics Personal Tutor Prompt into the conversation. You may also upload it as a file if the system allows file uploads.</span></p>
+<p><strong><span>1. Start your physics tutor.</span></strong><br /><span>Open the AI system you prefer and begin a new conversation. Copy and paste the entire General Physics Personal Tutor Prompt (shared below) into the conversation. You may also upload it as a file if the system allows file uploads (most do).</span></p>
 <p><span>Then send a simple message such as:</span></p>
 <blockquote>
     <p><span>I am beginning General Physics. Please use these instructions as my tutoring framework. I would like you to begin by learning what I currently understand and what prerequisite skills I may need to strengthen.</span></p>
 </blockquote>
 <p><span>The tutor should begin gradually. It should not give you an enormous placement test.</span></p>
-<p><strong><span>2. Give the tutor the material you are currently studying.</span></strong><br /><span>At the beginning of each week, you can provide the material that is relevant to that week's work. This might include the Week Overview, lecture slides, your own notes, or other instructional material that I have indicated may be used in this way.</span></p>
+<p><strong><span>2. Give the tutor the material you are currently studying.</span></strong><br /><span>At the beginning of each week, you can provide the material that is relevant to that week's work. This might include Weekly Overviews, lecture slides, your own notes, or other instructional material (many online textbooks do not allow you to directly copy and paste text, though).</span></p>
 <p><span>You might say:</span></p>
 <blockquote>
     <p><span>This is the material for Week 2. Before I begin the homework, help me determine what I need to understand and whether I have the prerequisite mathematics needed for this material.</span></p>
@@ -75,18 +75,19 @@ An exploration of how to construct a personalized AI tutor in adult education - 
 <p><span>If you already have access to a paid version of ChatGPT, Claude, Gemini, or another system, you may find that its more advanced reasoning modes, longer conversations, and file-upload capabilities make this type of tutoring easier.</span></p>
 <p><span>If your AI system offers a mode labeled something like </span><strong><span>Thinking</span></strong><span>, </span><strong><span>Reasoning</span></strong><span>, or a similar option, that can be useful for difficult physics problems or for diagnosing why you are struggling with a concept.</span></p>
 <p><span>For simple questions, definitions, or quick practice, a faster model is usually sufficient.</span></p>
-<p><strong><span>9. Remember that the AI is a supplement to your course resources.</span></strong><br /><span>Continue working through the weekly module in Canvas. Read the instructional material. Watch the lecture and homework videos. Complete the reading assignment. Practice. Use the Resources page. Reach out to me when you need help.</span></p>
-<p><span>AI can give you nearly unlimited opportunities to ask questions and practice, but it does not replace your instructor, the course material, tutoring services, or the Math Lab.</span></p>
-<p><span>Please also do not upload exams, quizzes, restricted assessment material, personal information, or anything I have indicated should not be shared with an outside AI system.</span></p>
-<p><span>Finally, remember why we are doing this.</span></p>
+<p><strong><span>9. Remember that the AI is a supplement.</span></strong><br /><span>Continue working through the course material within that chapter, or perhaps even that subsection or section of the chapter. Do read any instructional material. Be sure to watch any videos of instructors solving problems, too (if these are available to you).</span></p>
+<p><span>AI can give you nearly unlimited opportunities to ask questions and practice, but it does not replace your instructor (if you are taking a course), the course material, tutoring services, etc.</span></p>
+<p><span>Please be mindful about uploading any restricted assessment material, personal information, or anything that should not be shared with an outside AI system.</span></p>
+<p><span>Finally, remember why you are doing all this.</span></p>
 <p><span>Physics is difficult. For many students, it is also the first course that requires them to combine unfamiliar scientific concepts, algebra, trigonometry, diagrams, graphs, units, vectors, and symbolic reasoning all at once.</span></p>
 <p><span>If you struggle, try not to convert that experience into the conclusion that you are simply "bad at physics."</span></p>
 <p><span>A much more useful question is:</span></p>
 <blockquote>
     <p><span>What specific thing do I not understand yet?</span></p>
 </blockquote>
-<p><span>That is a question we can work with.</span></p>
-<p><span>You are not expected to become completely fluent in the language of physics in ten weeks. My hope is that you become increasingly able to look at a physical situation, identify the principles involved, represent those ideas mathematically, and reason from those principles.</span></p>
+<p><span>That is a question you can work with.</span></p>
+<p><span>You are not expected to become completely fluent in the language of physics in a term. My hope is that you become increasingly able to look at a physical situation, identify the principles involved, represent those ideas mathematically, and reason from those principles.</span></p>
+<p><strong><span>Key Takeaway</span></strong></p>
 <p><span>Use the AI to help you think.</span></p>
 <p><span>Do not use it to avoid thinking.</span></p>
 <hr />
@@ -107,7 +108,7 @@ An exploration of how to construct a personalized AI tutor in adult education - 
 <p style="padding-left: 40px;">Assume that I may have substantial gaps in prerequisite mathematics and science. Do not assume I understand something simply because it is normally considered prerequisite knowledge. At the same time, do not assume that I cannot learn it.</p>
 <p style="padding-left: 40px;">Physics may be one of the most difficult subjects I have studied. Treat that difficulty seriously without treating it as evidence that I am incapable of learning physics.</p>
 <p style="padding-left: 40px;"><span style="text-decoration: underline;">My course</span></p>
-<p style="padding-left: 40px;">This is a ten-week college General Physics course.</p>
+<p style="padding-left: 40px;">This is a one term college General Physics course.</p>
 <p style="padding-left: 40px;">Our textbook is Giambattista College Physics with Algebra.</p>
 <p style="padding-left: 40px;">Our reading assignments and homework are completed through McGraw-Hill Connect.</p>
 <p style="padding-left: 40px;">Each week normally contains a Week Overview, instructional slides, lecture videos, homework videos, a reading assignment, and homework or other assignments.</p>
